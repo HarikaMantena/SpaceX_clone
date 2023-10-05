@@ -1,0 +1,358 @@
+        *{
+            margin: 0px;
+            padding: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+           
+        }
+
+        #heading{
+            height: 610px;
+            border: 0px solid red;
+            background-image: url(https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2002/11/very_thin_blue_layer_the_atmosphere_protecting_our_planet/9133690-5-eng-GB/Very_thin_blue_layer_the_atmosphere_protecting_our_planet_pillars.jpg);
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+        }
+
+
+        #textdiv > h1{
+            font-weight: bolder;
+
+        }
+
+        #header{
+            height: 90px;
+            background-color: black;
+            position: fixed;
+            width: 100%;
+            overflow: hidden;
+            top: 0%;
+        }
+        
+        #logo{
+            width: 15%;
+            height:50px;
+            border: 0px solid red;
+            margin-left: 3%;
+        }
+         
+        #logo1{
+            margin-top: -90%;
+            margin-left: -30%;
+        }
+        
+        
+        #navbar{
+            width: 67%;
+            height:51px;
+            border: 0px solid green;
+            float:right;
+            margin-top: -3.9%;
+            margin-right: 14%;
+            padding-left: 5%;   
+        }
+        
+        .contactus{
+            width: 5%;
+            height:30px;
+            border: 0px solid red;
+            float: right;
+            margin-top: -2.5%;
+            margin-right: 2%;
+         }
+
+        .ul:hover{
+                text-decoration: underline;
+                color: white;
+    
+        }
+        
+        .a1 > a{
+            font-size:smaller;
+            text-decoration: none;
+            min-height: 60px;
+            line-height: 60px; 
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            padding:0.5%;
+            font-weight: bolder;    
+        }
+
+        #textdiv{
+            width:90%;
+            height:150px;
+            border: 0px solid pink;
+            margin-top: -2%;
+            margin-left: 4%;
+            text-align: center;
+           
+
+        }
+
+        #textdiv > h1{
+            color: white; 
+            font-size: 500%;
+            padding-top: 2%;
+
+        }
+
+        #textdiv > h4{
+            color: white;
+            font-size:smaller;
+            padding-top: 1%;
+
+        }
+
+        #features{
+            height: 380px;
+            background-color: black;
+        }
+
+        #featuresdiv1{
+            width:25%;
+            height: 300px;
+            border: 0px solid blue;
+            margin-left: 3%;
+            margin-top:4%;
+        }
+
+        #featuresdiv2{
+            width:25%;
+            height: 300px;
+            float: right;
+            border: 0px solid green;
+            margin-right: 37%;
+            margin-top: -22.3%;
+        }
+
+        #featuresdiv3{
+            width:25%;
+            height: 300px;
+            float: right;
+            border: 0px solid yellow;
+            margin-right: 3%;
+            margin-top: -22.3%;
+        }
+
+        .innerdiv1{
+            width: 30%;
+            height: 100px;
+            border: 0px solid pink;
+        }
+
+        .innerdiv2{
+            width: 69%;
+            height: 100px;
+            border: 0px solid aqua;
+            float: right;
+            margin-top: -100px;
+        }
+
+        .innerdiv{
+            color:white;
+            font-weight:bold;
+            font-size: 190%;
+            padding-top: 5%;
+        }
+
+        .features-des{
+            color: white;
+            padding-top: 10%;
+
+        }
+
+        #reserve-ride{
+            height: 600px;
+            border: 0px solid blue;
+            background-image: url(https://cdn.mos.cms.futurecdn.net/2NJUfKdgNzjdxdokQrWki8-970-80.jpg.webp);
+            background-size:100% 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            color: white;
+            background-color: black;
+
+        }
+
+        #reserve-ride-des{
+            width: 45%;
+            height: 220px;
+            margin-top: 5%;
+            border: 0px solid green;
+            color: white;
+            margin-left: 3%;
+
+        }
+
+        #reserve-ride-des > h2{
+            font-size: 270%;
+            color: white;
+            font-weight:bolder;
+        }
+
+        #reserve-ride-des > p{
+            color: white;
+        }
+
+        #final{
+            width: 60%;
+            height:100px; 
+            border: 0px solid red;
+            margin-top: 7%;
+            margin-left: 3%;
+            }
+
+        #finaldiv2{
+            margin-top: 1%;
+            height:50px; 
+            width:25%;
+            border: 0px solid white;
+            text-align: center;
+            box-sizing: border-box;
+            font-size: small;
+            font-weight:bolder;
+        
+           
+            }
+
+            #finaldiv3{
+            height:50px; 
+            width:25%;
+            border: 0px solid white;
+            float: right;
+            margin-top: -6.2%;
+            margin-right: 48%;
+            text-align: center;
+            box-sizing: border-box;
+            font-size: small;
+            font-weight:bolder;
+           
+            }
+
+            #final  a{
+               display:grid;
+               height:50px;
+               width: 100%;
+               border: 2px solid white;
+               place-items: center;
+               text-decoration: none;
+               color: white;
+            }
+
+            #change:hover{
+                background-color: white;
+                color: black;
+            }
+
+            #merlin{
+            height: 620px;
+            border: 0px solid gold;
+            background-color: black;
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+            color: white;
+           
+          
+        }
+
+        #desc{
+            width: 40%;
+            height:550px;
+            margin-top: 2%;
+            margin-left: 3%;
+            border:0px solid pink ;
+        }
+
+        #desc > h2{
+            font-size:250%;
+            font-weight: bolder;
+        }
+
+        #merlinpic{
+            width: 40%;
+            height:400px;
+            margin-right: 3%;
+            float: right;
+            border:0px solid pink ;
+            margin-top: -35%;
+            background-image: url(https://kctseds.files.wordpress.com/2021/12/image-2.png);
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+        }
+
+        #falcon9pic{
+            width: 40%;
+            height:400px;
+            margin-right: 3%;
+            float: right;
+            border:0px solid pink ;
+            margin-top: -35%;
+            background-image: url(https://jundroo.blob.core.windows.net/simplerockets/files/2019/10/25/HQ4Z2Z/OrthoView-0.jpg);
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+        }
+
+        #info{
+            height: 250px;
+            border: 0px solid pink;
+            color: white;
+            margin-top: 3%;
+        }
+
+        #table{
+            width: 120%;
+            height: 170px;
+            border: 0px solid yellow;
+            color: white;
+            margin-top: -20%;
+           
+         
+        }
+
+
+        .td1{
+            font-size:smaller;
+            color: white;
+            border-bottom: 1px solid white;
+            text-align: left;
+            }
+
+            .td2{
+            text-align: right;
+            color: white;
+            font-size:smaller;
+            padding:4%;
+            border-bottom: 1px solid white;
+   
+            }
+
+            .td3{
+            text-align: right;
+            color: grey;
+            font-size:small;
+            padding:4%;
+            border-bottom: 1px solid white;
+   
+            }            
+
+            #footer{
+            height: 100px;
+            background-color: black;
+        
+            }
+
+             #footer > p{
+            color:white; 
+            text-align: center;
+            font-size: 70%;
+            padding-top: 2%;           
+            } 
+            
+            #footer a{
+                color: white;
+                font-weight: bolder;
+            } 
+            
+            #footer p::before{
+                content:"SPACEX © 2023 ";
+                color: white;
+                font-size: 100%;
+            }

@@ -1,0 +1,342 @@
+ *{
+            margin: 0px;
+            padding: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+           
+        }
+
+        #heading{
+            height: 620px;
+            border: 0px solid red;
+            background-image: url(https://www.spacex.com/humanspaceflight/assets/images/HS-hero.webp);
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+        }
+
+
+        #textdiv > h1{
+            font-weight: bolder;
+
+        }
+
+        #header{
+            height: 90px;
+            background-color: black;
+            position: fixed;
+            width: 100%;
+            overflow: hidden;
+            top: 0%;
+        }
+        
+        #logo{
+            width: 15%;
+            height:50px;
+            border: 0px solid red;
+            margin-left: 3%;
+        }
+         
+        #logo1{
+            margin-top: -90%;
+            margin-left: -30%;
+        }
+        
+        
+        #navbar{
+            width: 67%;
+            height:51px;
+            border: 0px solid green;
+            float:right;
+            margin-top: -3.9%;
+            margin-right: 14%;
+            padding-left: 5%;   
+        }
+        
+        .contactus{
+            width: 5%;
+            height:30px;
+            border: 0px solid red;
+            float: right;
+            margin-top: -2.5%;
+            margin-right: 2%;
+         }
+
+        .ul:hover{
+                text-decoration: underline;
+                color: white;
+    
+        }
+        
+        .a1 > a{
+            font-size:smaller;
+            text-decoration: none;
+            min-height: 60px;
+            line-height: 60px; 
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            padding:0.5%;
+            font-weight: bolder;    
+        }
+
+#textdiv{
+            width:90%;
+            height:150px;
+            border: 0px solid pink;
+            margin-top: 6%;
+            margin-left: 4%;
+            text-align: center;
+            padding-top: 10%;
+
+        }
+
+        #textdiv > h1{
+            color: white; 
+            font-size: 500%;
+            padding-top: 2%;
+
+        }
+
+        #textdiv > h4{
+            color: white;
+            font-size:medium;
+            padding-top: 1%;
+
+        }
+
+        .c-h2{
+            text-align: left;
+        }
+
+        .c-p{
+            text-align: left;
+        }
+
+        .c-audio{
+           margin-left:-70%;
+        }
+
+        #merlin{
+            height: 750px;
+            border: 0px solid gold;
+            background-color: black;
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+            color: white;
+          
+        }
+
+        #desc{
+            width: 40%;
+            height:550px;
+            margin-top: 2%;
+            margin-left: 3%;
+            border:0px solid pink ;
+        }
+
+        #desc > h2{
+            font-size:250%;
+            font-weight: bolder;
+        }
+        #merlin > h2:first-of-type{
+            text-align: center;
+            font-size: 260%;
+            padding: 7%;
+            font-weight: bold;
+           
+        }
+
+        #falcon9pic{
+            width: 45%;
+            height:600px;
+            margin-right: 3%;
+            float: right;
+            border:0px solid pink ;
+            margin-top: -35%;
+            background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIG0Aje2o68QKlfaZEqyboEnSpK747h55xhYCJ6oI-19g7P9EkJ9NMVSiBXFMq4f7BS_yI_0tEqjEs5nuF4uny9dyaYNK2DhE2-MI2sCXy7ppgxftWk70ZtjFrt3FopKk6FEV-Hbtvp3Jez5u4FGLvZnxXcSru5Bkfzc974qgug1eC5LqqF5tBLR0E9Q/s1200/SpaceX%20Mars%20Base%20Alpha%20from%20Elon%20Musk%27s%20Starship%20update%202022_humanMars.net.jpg);
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+           
+        }
+
+        #info{
+            height: 250px;
+            border: 0px solid pink;
+            color: white;
+            margin-top: 3%;
+        }
+
+        #table{
+            width: 120%;
+            height: 170px;
+            border: 0px solid yellow;
+            color: white;
+            margin-top: -20%;
+           
+         
+        }
+
+
+        .td1{
+            font-size:smaller;
+            color: white;
+            border-bottom: 1px solid white;
+            text-align: left;
+            }
+
+            .td2{
+            text-align: right;
+            color: white;
+            font-size:smaller;
+            padding:4%;
+            border-bottom: 1px solid white;
+   
+            }
+
+        #vehicles{
+            height:1200px;
+            background-color: black;
+            color:white;
+        }
+
+        #vehicles> h2:first-of-type{
+            text-align: center;
+            font-size: 260%;
+            padding: 7%;
+            font-weight: bold;
+
+           
+        }
+
+        .dragon{
+           height: 500px;
+           border: 0px solid orange;
+
+        }
+
+        .dragon-desc{
+            width: 40%;
+            height:500px;
+            margin-top: 2%;
+            margin-left: 3%;
+            border:0px solid pink ;
+        }
+
+        .dragon-desc > h2{
+            font-size:250%;
+            font-weight: bolder;
+        }
+
+        .dragon-info{
+            height: 250px;
+            border: 0px solid pink;
+            color: white;
+            margin-top: 3%;
+        }
+
+        #dracopic{
+            width: 40%;
+            height:400px;
+            margin-right: 3%;
+            float: right;
+            border:0px solid pink ;
+            margin-top: -35%;
+            background-image: url(https://petapixel.com/assets/uploads/2020/05/449431C7-AF1E-4716-8DE9-7AF14EF80F10-800x450.jpg);
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+            margin-top: -39%;
+        }
+
+        #starshippic{
+            width: 40%;
+            height:400px;
+            margin-right: 3%;
+            float: right;
+            border:0px solid pink ;
+            margin-top: -35%;
+            background-image: url(https://i0.wp.com/travelinyourownway.com/wp-content/uploads/2022/10/starship.webp?resize=648%2C330&ssl=1);
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+           margin-top: -39%;
+        }
+
+        .finaldiv2{
+            margin-top: 1%;
+            height:50px; 
+            width:25%;
+            border: 0px solid green;
+            text-align: center;
+            box-sizing: border-box;
+            font-size: small;
+            font-weight:bolder;
+            margin-left: 3%;
+            margin-top: -20%;
+        
+           
+            }
+
+
+        .finaldiv2 >  a{
+               display:grid;
+               height:50px;
+               width: 50%;
+               border: 2px solid white;
+               place-items: center;
+               text-decoration: none;
+               color: white;
+            }
+
+            #change:hover{
+                background-color: white;
+                color: black;
+            }
+
+            #horizon{
+                height:540px;
+                border:0px solid blue;
+                background-image: url(https://miro.medium.com/v2/resize:fit:4800/format:webp/1*YnENc1oHHC1rVyho7BNgqw.jpeg);
+                background-repeat: no-repeat;
+                background-size: 100% 100%;
+            }
+
+            #horizon-desc{
+                height:100px;
+                margin-top: 29%;
+                border: 0px solid green;
+                text-align: center;
+                color: white;
+            }
+
+            #horizon-desc > h2{
+                font-size: 250%;
+                font-weight: bold;
+
+            }
+
+            .c-img-size{
+                width: 100%; height: 400px;
+            }
+
+            #footer{
+            height: 100px;
+            background-color: black;
+        
+            }
+
+             #footer > p{
+            color:white; 
+            text-align: center;
+            font-size: 70%;
+            padding-top: 4%;
+             }
+
+             #footer a{
+                color: white;
+                font-weight: bolder;
+            } 
+            
+            #footer p::before{
+                content:"SPACEX © 2023 ";
+                color: white;
+                font-size: 100%;
+            }
+
+        

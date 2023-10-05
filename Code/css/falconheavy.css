@@ -1,0 +1,436 @@
+*{
+            margin: 0px;
+            padding: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+           
+        }
+
+        #heading{
+            height: 610px;
+            border: 0px solid red;
+            background-image: url(https://images2.welcomesoftware.com/Zz1lMjkyNGU2ZmZmMzExMWViODRmMWMxOGI0YTM2M2M5ZA==);
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+        }
+
+        #header{
+            height: 90px;
+            background-color: black;
+            position: fixed;
+            width: 100%;
+            overflow: hidden;
+            top: 0%;
+        }
+        
+        #logo{
+   
+            width: 15%;
+            height:50px;
+            border: 0px solid red;
+            margin-left: 2%;
+            margin-top: 0%;
+        }
+
+        #logo1{
+            margin-top: -90%;
+            margin-left: -30%;
+        }
+        
+        #navbar{
+  
+            width: 60%;
+            height:51px;
+            border: 0px solid green;
+            float:right;
+            margin-top: -3.8%;
+            margin-right: 15%;
+            padding-right: 5%;
+            text-align: center;
+   
+        }
+
+        .ul:hover{
+                text-decoration: underline;
+                color: white;
+    
+        }
+        
+        .a1 > a{
+            font-size:smaller;
+            text-decoration: none;
+            min-height: 60px;
+            line-height: 60px; 
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            padding:0.5%;
+    
+        }
+
+        .contactus{
+            width: 5%;
+            height:30px;
+            border: 0px solid red;
+            float: right;
+            margin-top: -2.5%;
+            margin-right: 2%;
+         }
+
+
+
+        #falconheavy{
+            height:500px;
+            border: 1px solid green;
+
+        }
+
+        #textdiv{
+            width:90%;
+            height:150px;
+            border: 0px solid pink;
+            margin-top: 6%;
+            margin-left: 4%;
+            text-align: center;
+            padding-top: 10%;
+
+        }
+
+        #textdiv > h1{
+            color: white; 
+            font-size: 500%;
+            padding-top: 2%;
+
+        }
+
+        #textdiv > h4{
+            color: white;
+            font-size:smaller;
+            padding-top: 1%;
+
+        }
+
+        #count{
+            height:350px;
+            border:0px solid blue;
+            background-color: black;
+        }
+
+        #count1{
+            height:200px;
+            width: 20%;
+            border: 0px solid purple;
+            margin-left: 16%;
+            margin-top: 2%;
+        }
+
+        #count2{
+            height:200px;
+            width: 20%;
+            border: 0px solid red;
+            float: right;
+            margin-top: -15%;
+            margin-right: 39%;
+           
+        }
+
+        #count3{
+            height:200px;
+            width: 20%;
+            border: 0px solid green;
+            float: right;
+            margin-top: -15%;
+            margin-right: 14%;
+           
+        }
+
+        .cp1{
+            color:white;
+            font-size: 800%;
+            text-align: center;
+        }
+
+        .cp2{
+            color:white;
+            font-size: 100%;
+            text-align: center;
+        }
+
+        #aboutdiv{
+            height: 620px;
+            border: 0px solid gold;
+            background-image: url(https://jundroo.blob.core.windows.net/simplerockets/files/2019/10/16/k1gcDA/OrthoView-2.jpg);
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+           
+        }
+
+        .about{
+            width: 30%;
+            height: 250px;
+            border: 0px solid blue;
+            margin-left: 3%;
+            color: white;
+            margin-top: 20%;
+            line-height: 25px;
+            
+        }
+
+        #videodiv{
+            height: 600px;
+            border: 0px solid blue;
+            background-image: url(https://e0.pxfuel.com/wallpapers/289/924/desktop-wallpaper-starman-tesla-starman.jpg);
+            background-size:auto;
+            background-position: center;
+            background-repeat: no-repeat;
+            color: white;
+            background-color: black;
+          
+        }
+
+        .video{
+            width: 30%;
+            height: 100px;
+            border: 0px solid gold;
+            margin-top: 32%;
+            margin-left: 3%;
+            
+        }
+
+        .video > h1{
+            font-size:40px;
+            font-weight:bolder;
+        }
+
+        .video > h3{
+            font-size: medium;
+            font-weight: bolder;
+        }
+
+        #bgvideo{
+            height: 800px;
+            border:0px solid red;
+            background-color: black;
+
+
+        }
+
+        #backgroundvideo{
+            height:670px;
+            width: 50%;
+            margin-top: 6%;
+            border: 0px solid blue;
+            margin-left: 3%;
+        }
+
+        #backgroundvideodes{
+            height:300px;
+            width: 38%;
+            float:right;
+            border: 0px solid green;
+            margin-right: 3%;
+            margin-top: -35%;
+
+        }
+
+        .backvideo{
+            position: relative;
+            width:100%;
+            height: 100%;
+            align-items: center;
+            overflow: hidden;  
+        }
+
+        #backgroundvideodes > h2{
+            font-size: 270%;
+            color: white;
+            font-weight:bolder;
+        }
+
+        #backgroundvideodes > p{
+            color: white;
+        }
+
+        #merlin{
+            height: 650px;
+            border: 0px solid gold;
+            background-color: black;
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+            color: white;
+           
+          
+        }
+
+        #desc{
+            width: 40%;
+            height:550px;
+            margin-top: 2%;
+            margin-left: 3%;
+            border:0px solid pink ;
+        }
+
+        #desc > h2{
+            font-size:250%;
+            font-weight: bolder;
+        }
+
+        #desc > h4{
+            font-size: medium;
+            font-weight: bold;
+            font-stretch: extra-condensed;
+        }
+
+        #merlinpic{
+            width: 40%;
+            height:400px;
+            margin-right: 3%;
+            float: right;
+            border:0px solid pink ;
+            margin-top: -35%;
+            background-image: url(https://www.wevolver.com/_next/image?url=https%3A%2F%2Fwevolver-project-images.s3.us-west-1.amazonaws.com%2F0.icdc3nw8vif8.png&w=1920&q=75);
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+        }
+
+        #info{
+            height: 250px;
+            border: 0px solid pink;
+            color: white;
+            margin-top: 3%;
+        }
+
+        #info > h3{
+            color: white;
+        }
+
+
+        #table{
+            height: 170px;
+            border: 0px solid yellow;
+            color: white;
+            margin-top: 5%;
+           
+         
+        }
+
+        .td2{
+            text-align: right;
+            color: white;
+            font-size:smaller;
+            padding:4%;
+            border-bottom: 1px solid white;
+   
+            }
+
+        .td1{
+            font-size:smaller;
+            color: white;
+            border-bottom: 1px solid white;
+            text-align: left;
+            }
+
+            #final{
+            height:470px; 
+            border: 0px solid red;
+            background-color: black;
+            }
+
+            #finaldiv1{
+            margin-top: 20%;
+            height:40px; 
+            border: 0px solid blue;
+            color: white;
+            text-align: center;
+            
+            }
+
+            #finaldiv1 > p{
+               font-size: 90%;
+            }
+
+            #finaldiv2{
+            margin-top: 1%;
+            height:50px; 
+            width:15%;
+            margin-left: 34%;
+            border: 0px solid white;
+            text-align: center;
+            box-sizing: border-box;
+            font-size: small;
+            font-weight:bolder;
+        
+           
+            }
+
+            #finaldiv3{
+            height:50px; 
+            width:15%;
+            border: 0px solid white;
+            float: right;
+            margin-top: -3.7%;
+            margin-right: 34%;
+            text-align: center;
+            box-sizing: border-box;
+            font-size: small;
+            font-weight:bolder;
+           
+            }
+
+            #final  a{
+               display:grid;
+               height:50px;
+               width: 100%;
+               border: 2px solid white;
+               place-items: center;
+               text-decoration: none;
+               color: white;
+            }
+
+            #change:hover{
+                background-color: white;
+                color: black;
+            }
+
+            .line{
+                width:1px;
+                background-color: white;
+                height:160px;
+                position: absolute;
+                left:50%;
+                margin-top: 3%;
+            }
+
+            .play-btn{
+            width: 50px;
+            position: absolute;
+            left:50%;
+            margin-top: -20%;
+            transform: translate(-50%,-50%);
+            cursor: pointer;
+        }
+
+        
+            #footer{
+            height: 100px;
+            background-color: black;
+        
+            }
+
+             #footer > p{
+            color:white; 
+            text-align: center;
+            font-size: 70%;
+            padding-top: 2%;
+           
+            } 
+            
+            #footer a{
+                color: white;
+                font-weight: bolder;
+            } 
+            
+            #footer p::before{
+                content:"SPACEX © 2023 ";
+                color: white;
+                font-size: 100%;
+            }

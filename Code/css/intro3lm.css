@@ -1,0 +1,111 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header{
+    height: 90px;
+    background-color: black;
+ 
+}
+
+#logo{
+    width: 15%;
+    height:50px;
+    border: 0px solid red;
+    margin-left: 3%;
+}
+ 
+#logo1{
+    margin-top: -90%;
+    margin-left: -30%;
+}
+
+
+#navbar{
+    width: 58%;
+    height:51px;
+    border: 0px solid green;
+    float:right;
+    margin-top: -3.9%;
+    margin-right: 15%;
+    padding-left: 5%;   
+}
+
+.contactus{
+    width: 5%;
+    height:30px;
+    border: 0px solid red;
+    float: right;
+    margin-top: -3%;
+    margin-right: 2%;
+ }
+
+ .ul:hover{
+    text-decoration: underline;
+    color:white;
+ }
+ 
+.a1 > a{
+    font-size:smaller;
+    text-decoration: none;
+    min-height: 50px;
+    line-height: 50px; 
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.intro3{
+    height:850px; border: 0px solid green;margin-top: -1.5%;background-color: black;
+}
+
+#intro3lm{
+    height:540px; border: 0px solid orange;
+    background-image: url(https://www.transcontinentaltimes.com/wp-content/uploads/2023/06/SpaceX-Booster-Landing.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#div1{
+    width:90%;height:130px; border: 0px solid pink;margin-top: 3%;margin-left: 4%;
+}
+#div1 > h4{
+    color: grey; font-size:larger;
+}
+#div1 > h3{
+    color: white; font-size:250%;padding-top: 2%;
+}
+.para{
+    color:white;
+    text-align: justify;
+    line-height: 25px;
+}
+#div2{
+    width:45%;height:110px; border: 0px solid blue;margin-top: 1%;margin-left: 4%;
+}
+#div3{
+    width:45%;height:110px; border: 0px solid purple;float: right;margin-top: -8.2%;margin-right: 4%;
+}
+
+#footer{
+height: 100px;background-color: black;    
+}
+
+#footer > p{
+    color:white; 
+    text-align: center;
+    font-size: 70%;
+    padding-top: 2%;
+}
+
+#footer a{
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+} 
+
+#footer p::before{
+    content:"SPACEX © 2023 ";
+    color: white;
+    font-size: 100%;
+}

@@ -1,0 +1,303 @@
+       *{
+            margin: 0px;
+            padding: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+           
+        }
+
+        #heading{
+            height: 610px;
+            border: 0px solid red;
+            background-image: url(https://t4.ftcdn.net/jpg/04/80/37/81/360_F_480378151_tYMsmh8ovjL57zNSRj524GGyHrLh6M7p.jpg);
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            padding-top: 10%;
+        }
+
+        #textdiv > h1{
+            font-weight: bolder;
+
+        }
+
+        #header{
+            height: 90px;
+            background-color: black;
+            position: fixed;
+            width: 100%;
+            overflow: hidden;
+            top: 0%;
+        }
+        
+        #logo{
+            width: 15%;
+            height:50px;
+            border: 0px solid red;
+            margin-left: 3%;
+        }
+         
+        #logo1{
+            margin-top: -90%;
+            margin-left: -30%;
+        }
+        
+        
+        #navbar{
+            width: 67%;
+            height:51px;
+            border: 0px solid green;
+            float:right;
+            margin-top: -3.9%;
+            margin-right: 14%;
+            padding-left: 5%;   
+        }
+        
+        .contactus{
+            width: 5%;
+            height:30px;
+            border: 0px solid red;
+            float: right;
+            margin-top: -2.5%;
+            margin-right: 2%;
+         }
+
+        .ul:hover{
+                text-decoration: underline;
+                color: white;
+    
+        }
+        
+        .a1 > a{
+            font-size:smaller;
+            text-decoration: none;
+            min-height: 60px;
+            line-height: 60px; 
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            padding:0.5%;
+            font-weight: bolder;    
+        }
+
+        #textdiv{
+            width:90%;
+            height:150px;
+            border: 0px solid pink;
+            margin-top: 6%;
+            margin-left: 4%;
+            text-align: center;
+        }
+
+        #textdiv > h1{
+            color: white; 
+            font-size: 500%;
+            padding-top: 2%;
+
+        }
+
+        #textdiv > h4{
+            color: white;
+            font-size:smaller;
+            padding-top: 1%;
+
+        }
+
+        #videodiv{
+            height: 600px;
+            border: 0px solid blue;
+            background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNo3JuGUXWoUI5ooWTZD3hT-k3ybz7e6JXeWofXtoA4kPJ-NjfTG1VZ0e326FBBcH0j4oeKaSEaa4I5ge24GZ9wT1qN-InU0ItP-Li_TVovrlQuonrZZaya3ca8O9JgRt-xF5X2mX-Me4evYINtBZILapil0DrUuiAOOUww6eYreM6I1_-38zxXjYw7w/s1200/SpaceX%20Starship%20approaching%20Mars%20from%20Elon%20Musk%27s%20Starship%20update%202022_humanMars.net.jpg);
+            background-size:auto;
+            background-position: center;
+            background-repeat: no-repeat;
+            color: white;
+            background-color: black;
+          
+        }
+
+        .video{
+            width: 30%;
+            height: 100px;
+            border: 0px solid gold;
+            margin-top: 32%;
+            margin-left: 3%;
+            
+        }
+
+        .play-btn{
+            width: 50px;
+            position: absolute;
+            left:50%;
+            margin-top: -20%;
+            transform: translate(-50%,-50%);
+            cursor: pointer;
+        }
+
+        #moon-missions{
+            height: 600px;
+            border: 0px solid blue;
+            background-image: url(https://media.npr.org/assets/img/2023/04/14/spacex_starship_hls_artemis_iii_2_crew_0-8d26a26eaf9fefb46e2b831b36005ac6e5d8b297-s1300-c85.webp);
+            background-size:100% 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            color: white;
+            background-color: black;
+
+        }
+
+        #moon-missions-des{
+            width: 45%;
+            height: 220px;
+            margin-top: 5%;
+            border: 0px solid green;
+            color: white;
+            margin-left: 3%;
+
+        }
+
+        #moon-missions-des > h2{
+            font-size: 270%;
+            font-weight:bolder;
+        }
+
+
+        #starbase{
+            height: 600px;
+            border: 0px solid blue;
+            background-image: url(https://www.teslarati.com/wp-content/uploads/2022/03/Starbase-March-2022-SpaceX-B4-S20-OLS-fulls-tack-testing-overview-1-crop.jpg);
+            background-size:100% 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            color: white;
+            background-color: black;
+
+        }
+
+        #starbase-des{
+            width: 45%;
+            height: 170px;
+            margin-top: 20%;
+            border: 0px solid green;
+            color: white;
+            margin-left: 3%;
+
+        }
+
+        #starbase-des > h2{
+            font-size: 270%;
+            color: white;
+            font-weight:bolder;
+        }
+
+        #starbase-des > p{
+            color: white;
+        }
+
+        #final{
+            height: 450px;
+            background-color: black;
+        }
+
+        #finaldiv1{
+            margin-top: 5%;
+            height:50px; 
+            width:20%;
+            margin-left: 39%;
+            border: 0px solid white;
+            text-align: center;
+            box-sizing: border-box;
+            font-size: small;
+            font-weight:bolder;
+            
+            }
+
+            #final  a{
+               display:grid;
+               height:50px;
+               width: 100%;
+               border: 2px solid white;
+               place-items: center;
+               text-decoration: none;
+               color: white;
+            }
+
+            #change:hover{
+                background-color: white;
+                color: black;
+            }
+
+            #finaldiv2{
+            margin-top: 15%;
+            height:40px; 
+            border: 0px solid blue;
+            color: white;
+            text-align: center;
+            
+            }
+
+            #finaldiv2 > p{
+               font-size: 90%;
+            }
+
+            .line{
+                width:1px;
+                background-color: white;
+                height:140px;
+                position: absolute;
+                left:49%;
+                margin-top: 2%;
+            }
+
+            .starbase-videodiv2{
+            margin-top: 1%;
+            height:50px; 
+            width:25%;
+            border: 0px solid green;
+            text-align: center;
+            box-sizing: border-box;
+            font-size: small;
+            font-weight:bolder;
+            margin-left: 3%;
+            margin-top: -20%;
+        
+           
+            }
+
+
+        .starbase-video-div2 >  a{
+               display:grid;
+               height:50px;
+               width: 20%;
+               border: 2px solid white;
+               place-items: center;
+               text-decoration: none;
+               color: white;
+               margin-left: 3%;
+            }
+
+            #change:hover{
+                background-color: white;
+                color: black;
+            }
+
+            #footer{
+            height: 100px;
+            background-color: black;
+        
+            }
+
+             #footer > p{
+            color:white; 
+            text-align: center;
+            font-size: 70%;
+            padding-top: 2%;
+           
+            } 
+            
+            #footer a{
+                color: white;
+                font-weight: bolder;
+            } 
+            
+            #footer p::before{
+                content:"SPACEX © 2023 ";
+                color: white;
+                font-size: 100%;
+            }

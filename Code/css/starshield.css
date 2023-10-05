@@ -1,0 +1,351 @@
+       *{
+            margin: 0px;
+            padding: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+           
+        }
+
+        #heading{
+            height: 620px;
+            border: 0px solid red;
+            background-image: url(https://www.spacex.com/static/images/starshield/hero.webp);
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+        }
+
+
+        #textdiv > h1{
+            font-weight: bolder;
+
+        }
+
+        #header{
+            height: 90px;
+            background-color: black;
+            position: fixed;
+            width: 100%;
+            overflow: hidden;
+            top: 0%;
+        }
+        
+        #logo{
+            width: 15%;
+            height:50px;
+            border: 0px solid red;
+            margin-left: 3%;
+        }
+         
+        #logo1{
+            margin-top: -90%;
+            margin-left: -30%;
+        }
+        
+        
+        #navbar{
+            width: 67%;
+            height:51px;
+            border: 0px solid green;
+            float:right;
+            margin-top: -3.9%;
+            margin-right: 10%;
+            padding-left: 5%;   
+        }
+        
+        .contactus{
+            width: 5%;
+            height:30px;
+            border: 0px solid red;
+            float: right;
+            margin-top: -2.5%;
+            margin-right: 2%;
+         }
+
+        .ul:hover{
+                text-decoration: underline;
+                color: white;
+    
+        }
+        
+        .a1 > a{
+            font-size:smaller;
+            text-decoration: none;
+            min-height: 60px;
+            line-height: 60px; 
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            padding:0.5%;
+            font-weight: bolder;    
+        }
+
+#textdiv{
+            width:90%;
+            height:150px;
+            border: 0px solid pink;
+            margin-top: 6%;
+            margin-left: 4%;
+            text-align: center;
+            padding-top: 10%;
+
+        }
+
+        #textdiv > h1{
+            color: white; 
+            font-size: 500%;
+            padding-top: 2%;
+
+        }
+
+        #textdiv > h4{
+            color: white;
+            font-size:smaller;
+            padding-top: 1%;
+
+        }
+
+        #secured-satellite{
+            height: 600px;
+            background-color: black;
+            
+        }
+
+        #div1{
+            height:500px;
+            border: 0px solid green;
+            margin-top: 5%;
+            color: white;
+        }
+
+        #div1-title{
+            width:40%;
+            height:170px;
+            border: 0px solid blue;
+            margin-left: 3%;
+            font-weight: bold;
+            font-size: 180%;
+        }
+
+
+        #div1-desc{
+            width:45%;
+            height:100px;
+            border: 0px solid yellow;
+            float: right;
+            margin-right: 3%;
+            margin-top: -10%;
+            font-size: medium;
+            line-height: 25px;
+
+        }
+        #featuresdiv1{
+            width:25%;
+            height: 200px;
+            border: 0px solid blue;
+            margin-left: 3%;
+            margin-top:4%;
+            line-height: 150%;
+            border-top: 2px solid white;
+            padding-top: 2%;
+        }
+
+        #featuresdiv2{
+            width:25%;
+            height: 200px;
+            float: right;
+            border: 0px solid green;
+            margin-right: 37%;
+            margin-top: -17%;
+            line-height: 150%;
+            border-top: 2px solid white;
+            padding-top: 2%;
+        }
+
+        #featuresdiv3{
+            width:25%;
+            height: 200px;
+            float: right;
+            border: 0px solid yellow;
+            margin-right: 3%;
+            margin-top: -17.2%;
+            line-height: 150%;
+            border-top: 2px solid white;
+            padding-top: 2%;
+        }
+
+        .innerdiv1{
+            width: 20%;
+            height: 70px;
+            border: 0px solid pink;
+        }
+
+        .innerdiv2{
+            width: 75%;
+            height: 70px;
+            border: 0px solid aqua;
+            float: right;
+            margin-top: -71px;
+        }
+
+        .innerdiv{
+            color:white;
+            font-weight:bold;
+            font-size: 140%;
+            padding-top: 10%;
+        }
+
+        .features-des{
+            color: white;
+            padding-top: 4%;
+
+        }
+
+        #security{
+            height: 600px;
+            border: 0px solid blue;
+            background-image: url(https://e0.pxfuel.com/wallpapers/233/603/desktop-wallpaper-wall-mural-sci-fi-art-removable-wall-mural-futuristic-etsy-wall-art-spaceship-interior-sci-fi-concept-art.jpg);
+            background-size:100% 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-color: black;
+            opacity: 0.9;
+
+        }
+
+        #security-des{
+            width: 40%;
+            height: 220px;
+            margin-top: 15%;
+            border: 0px solid green;
+            color: white;
+            margin-right: 5%;
+            float: right;
+            text-shadow: 2px 2px black;
+
+        }
+
+        #security-des > h2{
+            font-size: 270%;
+            font-weight:bolder;
+        }
+
+        #security-des > p{
+            font-weight:bolder;
+            line-height: 150%;
+        }
+
+        #module{
+            height: 600px;
+            border: 0px solid blue;
+            background-image: url(https://www.teslarati.com/wp-content/uploads/2019/02/Falcon-9-B1054-GPS-III-SV01-liftoff-SpaceX-5-crop.jpg);
+            background-size:100% 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            color: white;
+            background-color: black;
+
+        }
+
+        .module-des{
+            width: 45%;
+            height: 220px;
+            margin-top: 20%;
+            float: right;
+            border: 0px solid green;
+            color: white;
+            margin-right: 5%;
+
+        }
+
+        .module-des > h2{
+            font-size: 270%;
+            font-weight:bolder;
+        }
+
+        .module-des > p{
+            line-height: 150%;
+        }
+
+        #inter{
+            height: 600px;
+            border: 0px solid blue;
+            background-image: url(https://www.spacex.com/static/images/starshield/interoperability.webp);
+            background-size:100% 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            color: white;
+            background-color: black;
+
+        }
+
+        .inter-des{
+            width: 45%;
+            height: 220px;
+            margin-top: 15%;
+            border: 0px solid green;
+            color: white;
+            margin-left: 3%;
+
+        }
+
+        .inter-des > h2{
+            font-size: 270%;
+            font-weight:bolder;
+        }
+        .inter-des > p{
+            line-height: 150%;
+        }
+
+        #rapid{
+            height: 600px;
+            border: 0px solid blue;
+            background-image: url(https://www.spacex.com/static/images/starshield/rapid-development.webp);
+            background-size:100% 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            color: white;
+            background-color: black;
+
+        }
+        #capability{
+            height: 600px;
+            border: 0px solid blue;
+            background-image: url(https://www.spacex.com/static/images/starshield/resilient.webp);
+            background-size:100% 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-color: black;
+        }
+
+        #partnership{
+            height: 600px;
+            border: 0px solid blue;
+            background-image: url(https://www.spacex.com/static/images/starshield/proven-partnerships.webp);
+            background-size:100% 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-color: black;
+        }
+
+        #footer{
+            height: 100px;
+            background-color: black;
+        
+            }
+
+             #footer > p{
+            color:white; 
+            text-align: center;
+            font-size: 70%;
+            padding-top: 4%;
+             }
+
+             #footer a{
+                color: white;
+                font-weight: bolder;
+                text-decoration: none;
+            } 
+            
+            #footer p::before{
+                content:"SPACEX © 2023 ";
+                color: white;
+                font-size: 100%;
+            }
